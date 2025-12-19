@@ -1,0 +1,9 @@
+# Node
+node_modules/
+
+# Docker / MySQL
+mysql_data/
+docker-nginx/mysql_data/
+
+# Logs
+*.log
