@@ -11,7 +11,7 @@ Ao acessar a aplicação, um nome aleatório é inserido no banco de dados e a l
 ```bash
 git clone https://github.com/MatheusRubortone/desafios-docker.git
 cd desafios-docker/docker-nginx
-``
+```
 
 ```bash
 docker-compose up -d
